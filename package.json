@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "express-validator": "^6.6.1",
     "joi": "^13.7.0",
-    "mysql": "^2.18.1",
+    
     "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {

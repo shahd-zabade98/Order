@@ -1,4 +1,4 @@
-const pool = require("../../config/database");
+//const pool = require("../../config/database");
 module.exports = {
 //    Buy: (Book_id, callBack) =>{
 //     var obj = {

@@ -1,6 +1,6 @@
 const { bool } = require("joi");
 const nodemon = require("nodemon");
-const pool = require("../../config/database");
+//const pool = require("../../config/database");
 module.exports ={
     Buy : (req, res) =>{ 
         const body = req.body
